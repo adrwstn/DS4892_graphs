@@ -31,8 +31,6 @@
  *  distances from Portugal Cove to all other locations in the table.
  * 2. Starting from the code you wrote on Friday, write a method of your graph class that will calculate the
  *  total road distance between any two points in the graph.
- *
- *  TODO: haven't had time to do 20th exercises yet
  */
 
 template<typename V, typename E>
