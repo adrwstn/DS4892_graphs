@@ -8,8 +8,7 @@ int main()
 
 	std::ifstream myFile;//("./Dependencies/road-distances.csv");
 	myFile.open(
-		"/Users/andrew/Term 4/Engi 4892 - Data Structures/Projects/Exercises/Graphs/Dependencies/road-distances.csv");
-	std::string line;
+		"./Dependencies/road-distances.csv");
 
 	if (!myFile.is_open())
 	{
